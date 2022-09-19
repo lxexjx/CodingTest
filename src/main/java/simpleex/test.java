@@ -1,4 +1,4 @@
-package ch02;
+package simpleex;
 
 public class test {
     public static void main(String[] args) {

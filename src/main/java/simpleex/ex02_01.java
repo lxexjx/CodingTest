@@ -1,4 +1,4 @@
-package ch02;
+package simpleex;
 
 import java.util.Scanner;
 
